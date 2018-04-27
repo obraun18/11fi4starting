@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{641385DF-EC1C-44FD-ADD8-F6A4DE12ED29}"
 	ProjectSection(SolutionItems) = preProject
@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartingPoint", "StartingPoint.csproj", "{E33EBB22-63BA-4EB7-AED8-4BD78EA1679A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStartingPoint", "..\TestStartingPoint\TestStartingPoint.csproj", "{115E42E7-EBD1-46A0-B4D3-0C8C4BE957DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +21,10 @@ Global
 		{E33EBB22-63BA-4EB7-AED8-4BD78EA1679A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E33EBB22-63BA-4EB7-AED8-4BD78EA1679A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E33EBB22-63BA-4EB7-AED8-4BD78EA1679A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115E42E7-EBD1-46A0-B4D3-0C8C4BE957DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115E42E7-EBD1-46A0-B4D3-0C8C4BE957DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115E42E7-EBD1-46A0-B4D3-0C8C4BE957DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115E42E7-EBD1-46A0-B4D3-0C8C4BE957DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

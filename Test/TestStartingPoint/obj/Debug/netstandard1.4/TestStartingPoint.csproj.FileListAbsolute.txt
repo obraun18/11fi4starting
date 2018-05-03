@@ -1,0 +1,7 @@
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\bin\Debug\netstandard1.4\TestStartingPoint.deps.json
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\bin\Debug\netstandard1.4\TestStartingPoint.dll
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\bin\Debug\netstandard1.4\StartingPoint.exe
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\bin\Debug\netstandard1.4\StartingPoint.pdb
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\obj\Debug\netstandard1.4\TestStartingPoint.csproj.CoreCompileInputs.cache
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\obj\Debug\netstandard1.4\TestStartingPoint.AssemblyInfo.cs
+C:\temp\repos\11fi4starting\Test\TestStartingPoint\obj\Debug\netstandard1.4\TestStartingPoint.csprojResolveAssemblyReference.cache
